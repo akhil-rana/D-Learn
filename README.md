@@ -1,5 +1,5 @@
 # D-Learn
-A simple distance learning app
+A simple distance learning android app
 
 
 
