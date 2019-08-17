@@ -2,7 +2,7 @@
 A simple distance learning android app
 
 
-
+# [Some basic features of the app(ppt)](https://akhil-rana.github.io/D-Learn/) 
 
 
 # Made By:
