@@ -5,7 +5,7 @@ A simple distance learning app
 
 
 
-Made By:
+# Made By:
 
 Akhil Rana 
 
@@ -17,4 +17,4 @@ Shreesh Narayan Singh
 
 
 
-An android training project at Sikkim Manipal Institute of Technology 2019.
+# An android training project at Sikkim Manipal Institute of Technology 2019.
