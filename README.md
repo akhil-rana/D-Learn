@@ -7,7 +7,7 @@ A simple distance learning app
 
 Made By:
 
-Akhil Rana
+Akhil Rana 
 Aryan Dev
 Pratyashi Dutta
 Shreesh Narayan Singh
