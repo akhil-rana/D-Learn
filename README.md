@@ -11,7 +11,7 @@ Akhil Rana
 
 Aryan Dev
 
-Pratyashi Dutta
+[Pratyashi Dutta](https://github.com/pratyashidutta/)
 
 Shreesh Narayan Singh
 
