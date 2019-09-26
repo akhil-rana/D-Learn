@@ -9,7 +9,7 @@ A simple distance learning android app
 
 [Akhil Rana](https://github.com/akhil-rana/) 
 
-Aryan Dev
+[Aryan Dev](https://github.com/aryandev1/)
 
 [Pratyashi Dutta](https://github.com/pratyashidutta/)
 
