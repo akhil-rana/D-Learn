@@ -18,3 +18,9 @@ Shreesh Narayan Singh
 
 
 # This was prepared as an android training project at Sikkim Manipal Institute of Technology by B.Tech 4th semester students in 2019.
+
+
+
+#ScreenShots
+
+![Admin](https://raw.githubusercontent.com/akhil-rana/D-Learn/master/files/images/admin1.jpg)
