@@ -21,6 +21,15 @@ Shreesh Narayan Singh
 
 
 
-#ScreenShots
-
+# ScreenShots
+![Admin](https://raw.githubusercontent.com/akhil-rana/D-Learn/master/files/images/front1.jpg)
+![Admin](https://raw.githubusercontent.com/akhil-rana/D-Learn/master/files/images/front2.jpg)
+![Admin](https://raw.githubusercontent.com/akhil-rana/D-Learn/master/files/images/front3.jpg)
+![Admin](https://raw.githubusercontent.com/akhil-rana/D-Learn/master/files/images/register1.jpg)
+![Admin](https://raw.githubusercontent.com/akhil-rana/D-Learn/master/files/images/register2.jpg)
+![Admin](https://raw.githubusercontent.com/akhil-rana/D-Learn/master/files/images/register3.jpg)
+![Admin](https://raw.githubusercontent.com/akhil-rana/D-Learn/master/files/images/login1.jpg)
+![Admin](https://raw.githubusercontent.com/akhil-rana/D-Learn/master/files/images/basic1.jpg)
 ![Admin](https://raw.githubusercontent.com/akhil-rana/D-Learn/master/files/images/admin1.jpg)
+![Admin](https://raw.githubusercontent.com/akhil-rana/D-Learn/master/files/images/admin2.jpg)
+![Admin](https://raw.githubusercontent.com/akhil-rana/D-Learn/master/files/images/updatepass.jpg)
